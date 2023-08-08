@@ -1,6 +1,4 @@
-Помощь.
-
-На данный момент сохраняются настройки топиков:
-1. имя топика,
-2. сообщение,
-3. загаловки
+Currently save in local project next settings:
+1. topic name
+2. message
+3. headers
