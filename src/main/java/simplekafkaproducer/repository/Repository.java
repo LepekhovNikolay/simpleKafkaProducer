@@ -1,4 +1,4 @@
-package simplekafkaproducer.ui;
+package simplekafkaproducer.repository;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import simplekafkaproducer.ui.dto.Setting;

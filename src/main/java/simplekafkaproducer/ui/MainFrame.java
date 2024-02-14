@@ -13,13 +13,12 @@ import org.apache.kafka.clients.producer.ProducerRecord;
 import org.apache.kafka.clients.producer.RecordMetadata;
 import org.apache.kafka.common.header.internals.RecordHeader;
 import org.apache.kafka.common.serialization.StringSerializer;
+import simplekafkaproducer.repository.Repository;
 import simplekafkaproducer.util.TimeUtils;
 import simplekafkaproducer.util.UiUtils;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.Collection;
